@@ -75,14 +75,10 @@ DeviceFileEvents
 ---
 
 ## Created By:
-- **Author Name**: Josh Madakor
-- **Author Contact**: https://www.linkedin.com/in/joshmadakor/
+- **Author Name**: David West
+- **Author Contact**:  https://www.linkedin.com/in/davidwest24/
 - **Date**: August 31, 2024
 
-## Validated By:
-- **Reviewer Name**: David West
-- **Reviewer Contact**: https://www.linkedin.com/in/davidwest24/
-- **Validation Date**: August 1, 2025
 
 ---
 
@@ -90,8 +86,3 @@ DeviceFileEvents
 - **None**
 
 ---
-
-## Revision History:
-| **Version** | **Changes**                   | **Date**         | **Modified By**   |
-|-------------|-------------------------------|------------------|-------------------|
-| 1.0         | Initial draft                  | `September  6, 2024`  | `Josh Madakor`   
