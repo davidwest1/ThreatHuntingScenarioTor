@@ -80,9 +80,9 @@ DeviceFileEvents
 - **Date**: August 31, 2024
 
 ## Validated By:
-- **Reviewer Name**: 
-- **Reviewer Contact**: 
-- **Validation Date**: 
+- **Reviewer Name**: David West
+- **Reviewer Contact**: https://www.linkedin.com/in/davidwest24/
+- **Validation Date**: August 1, 2025
 
 ---
 
